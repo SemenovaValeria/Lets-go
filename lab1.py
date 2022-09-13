@@ -129,6 +129,7 @@ def o_cube(x, a, b, c, d):
     return a * x**3 + b * x**2 + c * x + d
 
 if __name__ == "__main__":
+    
     # change function to appropriate theoretical; change to:
         #o_const for constant approximation
         #o_linear for linear approximation
